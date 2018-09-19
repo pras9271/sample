@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="5">
+  <test name="Test">
+  
+    <classes>
+      <class name="Testcases.Mdssite"/>
+      <!-- <class name="Testcases.Checkout"/>
+      <class name="Testcases.Createaccount"/>
+      <class name="Testcases.Creditline"/>
+      <class name="Testcases.Requestquote"/>
+      <class name="Testcases.Review"/>
+      <class name="Testcases.Search"/>
+      <class name="Testcases.Shoppingcart"/>
+      <class name="Testcases.Taxexcemption"/>
+      <class name="Testcases.Wishlist"/>
+      <class name="Testcases.Reorder"/>
+      <class name="Testcases.Contactus"/>
+      <class name="Testcases.Aboutus"/>
+      <class name="Testcases.Locations"/>
+      <class name="Testcases.Privacy"/>
+      <class name="Testcases.Terms"/>
+      <class name="Testcases.Quickorder"/> -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
